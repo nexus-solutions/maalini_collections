@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bemis';
+    src: url('Bemis.eot');
+    src: url('Bemis.eot?#iefix') format('embedded-opentype'),
+        url('Bemis.woff2') format('woff2'),
+        url('Bemis.woff') format('woff'),
+        url('Bemis.svg#Bemis') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
